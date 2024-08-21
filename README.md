@@ -57,8 +57,6 @@ Add a git URL:
 git remote add origin <-link->
 ```
 
-<hr>
-
 Display remote repos:
 ```
 git remote -v
