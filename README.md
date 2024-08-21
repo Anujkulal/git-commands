@@ -97,6 +97,7 @@ git push origin <-branch name->
 ```
 
 <hr>
+
 #### Fetch, pull, merge, diff:
 fetch down all the branches from that Git remote
 ```
